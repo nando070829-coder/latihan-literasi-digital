@@ -1,2 +1,5 @@
 #Latihan Literasi Digital
-repository latihan Git dan GitHub.
+
+**Nama:** Candra Wisnu Pratama
+**Program Studi:** Teknik Informatika
+**Minat:** Pengembangan web, otomasi (bot), dan belajar teknologi baru
